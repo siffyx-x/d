@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // 「はい」ボタンがクリックされた時の処理
     confirmButton.addEventListener('click', () => {
         // の紹介ページに直接遷移
-        const nextPageUrl = ‘dail.html';
+        const nextPageUrl = 'dail.html';
         window.location.href = nextPageUrl;
     });
 });
